@@ -7,7 +7,6 @@ I am a versatile software developer proficient in JavaScript and Python, with a 
 # Github Stats
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sarah-Wambui&theme=radical" alt="GitHub Streak" /></a>
 <img src="https://github-readme-stats.vercel.app/api?username=Sarah-Wambui&theme=radical&show_icons=true" alt="Github Stats"/>
-![Sarah's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@sarah843&theme=gotham&layout=compact)
 
 # Tech Stacks
 ### Front-End Languages
