@@ -18,15 +18,18 @@ I am a versatile software developer proficient in JavaScript and Python, with a 
 ### Front-End Frameworks and Libraries
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" align="left"/>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" align="left"/>
+<br/>
 ### Back-End Languages
-<img src = "https://img.shields.io/badge/python-%23CC342D.svg?style=for-the-badge&logo=python&logoColor=white" align = "left"/> <br/>
+<img src = "https://img.shields.io/badge/python-%23CC342D.svg?style=for-the-badge&logo=python&logoColor=white" align = "left"/> 
+<br/>
 ### Back-End Frameworks and Libraries
 <img src = "https://img.shields.io/badge/flask-%23CC0000.svg?style=for-the-badge&logo=flask&logoColor=white" align = "left"/>
-<img src = "https://img.shields.io/badge/django-6DA55F?style=for-the-badge&logo=django&logoColor=white" align = "left"/> <br/>
+<img src = "https://img.shields.io/badge/django-6DA55F?style=for-the-badge&logo=django&logoColor=white" align = "left"/> 
+<br/>
 ### Databases
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" align= "left" />
 <img src= "https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" align= "left" />
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" align = "left" />
-
+<br/>
 ## :joy: Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
