@@ -6,4 +6,4 @@ I am a versatile software developer proficient in JavaScript and Python, with a 
 <!---  --->
 # Github Stats
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sarah-Wambui&theme=radical" alt="GitHub Streak" /></a>
-<img src="https://github-readme-stats.vercel.app/api?username=BeatriceWambuiMbugua&theme=radical&show_icons=true" alt="Github Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sarah-Wambui&theme=radical&show_icons=true" alt="Github Stats"/>
